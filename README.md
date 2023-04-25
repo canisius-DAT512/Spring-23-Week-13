@@ -1,6 +1,5 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Working with Time Series Data
+# ![](https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/canisius.sidearmsports.com/images/responsive_2021/logo_main.svg) Working with Time Series Data
 
-> Unit 4, Flex
 
 ---
 
